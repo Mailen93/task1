@@ -1,12 +1,16 @@
 h1 {
     text-align: center;
     padding: 2rem;
-    background-color: #050101a5;
+    background-image: url('./fuegosart.jpg');
+    background-size: cover;
+    background-position: center;
     box-shadow: 5px 4px 20px 0px black;
     font-family: fantasy;
     font-size: 3rem;
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
+    color: white;
+    text-shadow: 11px 4px 6px #000000;
 }
 
 
